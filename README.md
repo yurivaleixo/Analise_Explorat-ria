@@ -2,7 +2,7 @@
 
 Alunos: Yuri Valeixo e Graziela Rudinger
 
-Turma: Turma BSI - Quarta
+Turma: BSI - Quarta Noite
 
 Censo Covid-19
 
