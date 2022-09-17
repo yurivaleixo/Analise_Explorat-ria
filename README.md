@@ -1,4 +1,4 @@
-# Projeto-Analise-Explorat-ria
+# Projeto-Analise-Exploratoria
 
 Alunos: Yuri Valeixo e Graziela Rudinger
 
