@@ -6,8 +6,6 @@ Alunos: Yuri Valeixo e Graziela Rudinger
 
 Turma: BSI - Quarta Noite
 
-Censo Covid-19
-
 Link Base de Dados: https://mid.curitiba.pr.gov.br/dadosabertos/156/2022-10-01_156_-_Base_de_Dados.csv
 
 Link Dicionário de Dados: https://mid.curitiba.pr.gov.br/dadosabertos/156/2015-11-26_156_-_Dicionario_de_Dados.xlsx
